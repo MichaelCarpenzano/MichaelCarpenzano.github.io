@@ -6,4 +6,8 @@ This project is an ongoing professional website to showcase myself and my projec
 
 ## Technology ##
 
-Built using vanilla JavaScript, CSS, and HTML. Template designed by and used with permission from HTML Codex. 
+Built using vanilla JavaScript, CSS, and HTML. 
+
+
+
+Template designed by and used with permission from HTML Codex. 
