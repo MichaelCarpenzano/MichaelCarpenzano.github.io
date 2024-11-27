@@ -6443,22 +6443,14 @@ button.bg-dark:focus {
 }
 
 .bg-english {
-  background-image: 
-	   -webkit-linear-gradient(top, 
-	                           rgba(255, 255, 255, .25), 
-	                           rgba(0, 0, 0, .25)),
-	   -webkit-linear-gradient(left, #B22234, #fff, #3C3B6E);
+  background-color: #3C3B6E;
 
   border-radius: 2px; 
   background-size: 35px 20px, 100% 100%, 100% 100%;
 }
 
 .bg-japanese {
-  background-image: 
-	   -webkit-linear-gradient(top, 
-	                           rgba(255, 255, 255, .25), 
-	                           rgba(0, 0, 0, .25)),
-	   -webkit-linear-gradient(left, #fff, #BC002D, #fff);
+  background-color: #BC002D;
 
   border-radius: 2px; 
   background-size: 35px 20px, 100% 100%, 100% 100%;
