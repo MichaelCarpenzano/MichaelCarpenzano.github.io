@@ -2859,6 +2859,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-light {
   color: #ffffff;
+  background-color: #0BCEAF;
   border-color: #ffffff;
 }
 
@@ -6356,6 +6357,11 @@ a.close.disabled {
 
 .bg-primary {
   background-color: #0BCEAF !important;
+}
+
+.bg-montauk {
+  min-height: 100vh;
+  background: url('img/montauk.jpeg') no-repeat center center/cover;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
