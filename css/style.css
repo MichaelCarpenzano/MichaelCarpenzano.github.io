@@ -2859,7 +2859,6 @@ fieldset:disabled a.btn {
 
 .btn-outline-light {
   color: #ffffff;
-  background-color: #0BCEAF;
   border-color: #ffffff;
 }
 
@@ -6575,7 +6574,7 @@ button.bg-dark:focus {
 }
 
 .rounded-pill {
-  border-radius: 50rem !important;
+  border-radius: 10rem !important;
 }
 
 .rounded-0 {
